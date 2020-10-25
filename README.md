@@ -12,7 +12,7 @@ Update html and css files to be semantic, improve accessibility and add a detail
 
 - Changed all the 'div' tags to semantic tags (i.e. 'section', 'header', 'footer' etc.)
 - Made sure all links in the header lead to somewhere on the page when clicked
-- Updated the head to include a document title as well as scaling compensation depending on viewport ![desktop view](desktopview.PNG) ![mobile-view](mobile-view.PNG)
+- Updated the head to include a document title as well as scaling compensation depending on viewport ![desktop view](desktop-view.PNG) ![mobile-view](mobile-view.PNG)
 - Changed the banner section from a div tag with styling to an img tag with an alt tag
 - Added alt tags to all images present on the page
 - Cleaned up the formatting to improve readibility
